@@ -23,12 +23,12 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🐍
 
 ![Snake Animation](https://github.com/bagasardi20155/bagasardi20155/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎉 Fun Fact
+## 🎉 Optimization
 
 I once optimized a database query that reduced response time from 30 seconds to 700ms! ⚡
