@@ -20,15 +20,3 @@
 ![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagasardi20155&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasardi20155&layout=compact&theme=radical)
-
----
-
-## 🐍
-
-![Snake Animation](https://github.com/bagasardi20155/bagasardi20155/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎉 Optimization
-
-I once optimized a database query that reduced response time from 30 seconds to 700ms! ⚡
